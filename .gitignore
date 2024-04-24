@@ -11,4 +11,7 @@
 # Compiled PBR Material
 *.gltf
 *.glb
+*.gltf
 
+# Binary output
+*.bin
